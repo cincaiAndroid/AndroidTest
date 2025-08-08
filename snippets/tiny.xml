@@ -1,0 +1,7 @@
+<!-- device trees: leave upstream; likely fork later for sepolicy/props -->
+<!-- vendor blobs mk: leave upstream; fork when you customize copy-files/shims -->
+<!-- sepolicy: leave upstream; fork on first denial storm -->
+<!-- kernel: only add when you decide to ship your own -->
+<!-- qcom power/thermal/dataservices: leave; fork if behavior tweaks needed -->
+<!-- wlan: leave; fork for regulatory/PS adjustments -->
+<!-- UI (Settings/SystemUI/Launcher): leave now; fork when starting branding -->
