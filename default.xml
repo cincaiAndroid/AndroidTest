@@ -13,7 +13,7 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-15.0.0_r32" />
 
-  <remote  name="cincaiAndroid"
+  <remote  name="cincaiAndroid/AndroidTest"
            fetch="https://github" />
       
   <default revision="refs/heads/lineage-22.2"
