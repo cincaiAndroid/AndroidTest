@@ -8,7 +8,7 @@ To get started with Android/LineageOS, you'll need to get familiar with [Source 
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-https://github.com/cincaiAndroid/AndroidTest.git
+repo init -u https://github.com/cincaiAndroid/AndroidTest.git -b -main
 ```
 Then to sync up:
 ```
